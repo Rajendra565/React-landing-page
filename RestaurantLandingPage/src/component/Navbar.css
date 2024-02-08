@@ -1,0 +1,7 @@
+ol li a{
+    transition: all 1.3s ease;
+}
+ol li a:hover{
+    color: aliceblue;
+    
+}
