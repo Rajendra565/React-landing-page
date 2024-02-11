@@ -4,6 +4,7 @@ import Navbar from './component/Navbar'
 import Home from './component/Home'
 import About from './component/About'
 import Work from './component/Work/Work'
+import Testimonial from './component/Testimonial'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -18,6 +19,7 @@ function App() {
     <About/>
     <Work/>
 
+    <Testimonial/>
 
 
 

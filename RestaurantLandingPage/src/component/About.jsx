@@ -6,7 +6,7 @@ import PlayCircleIcon from '@mui/icons-material/PlayCircle';
 function About() {
   return (
     <>
-    <div className=" flex justify-center items-center flex-row-reverse sm:flex-col xl:flex-row xl:justify-around xl:flex-row-reverse ">
+    <div className=" flex justify-center items-center  md:flex-col sm:flex-col xl:flex-row xl:justify-around xl:flex-row-reverse  ">
         <div className=" my-16 flex flex-col gap-4 sm:w-96 items-center ">
         <b className=' text-yellow-500 w-fit'>About</b>
             <h1 className=' font-bold text-white text-4xl  sm:w-96 capitalize'>
